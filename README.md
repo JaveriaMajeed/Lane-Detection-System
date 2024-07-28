@@ -6,6 +6,7 @@ https://github.com/user-attachments/assets/fe7927a8-4efb-4aba-8aeb-68d8e5407c84
 
 ## Overview
 
+This Project is based on tensorflow keras
 The project consists of two main components:
 
 1. **Lane Detection**: Uses deep learning models like U-Net and LaneNet to detect lane markings in real-time from video frames.
@@ -17,7 +18,7 @@ The project consists of two main components:
 - **Multi-Class Classification**: It can classify lanes into multiple categories, enhancing the understanding of road conditions.
 - **Integrated Output**: The final output video includes both lane detection visualizations and lane type annotations.
 
-Deployment on Hardware
+## Deployment on Hardware
 The system is also deployed on a Jetson Nano, a compact microprocessor designed for AI applications. This deployment enables real-time lane detection and classification directly on hardware, making it suitable for embedded systems and automotive applications.
 
 ## Installation
