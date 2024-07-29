@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lanedetection.git
+   git clone https://github.com/JaveriaMajeed/Lane-Detection-System.git
 
 2. Navigate to the project directory:
    ```bash
@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
 
 To run the system on a video file, use the following command:
 
-```bash
-python Lane_detection_System.py
-## change model paths and input output video setting according to your computer
+  ```bash
+  python lane_detection_system.py
+  ## change model paths and input output video setting according to your computer
    
